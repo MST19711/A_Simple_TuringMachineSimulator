@@ -1,4 +1,4 @@
-# Readme
+# A_Simple_TuringMachineSimulator
 
 该项目为一个简单的图灵机模拟器，输入图灵机程序和纸带的初始字符串然后模拟一个多纸带图灵机的工作。
 项目的所有代码都在turing-project目录下。
